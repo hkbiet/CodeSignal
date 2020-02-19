@@ -24,6 +24,6 @@ int makeArrayConsecutive2(std::vector<int> statues) {
 
     return total;
     
-    // tested
+    // tested vested
 }
 
