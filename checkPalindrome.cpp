@@ -30,7 +30,7 @@ bool checkPalindrome(std::string inputString) {
         return false;
     }
     
-    //tested
+    //tested  | done
 
 }
 
