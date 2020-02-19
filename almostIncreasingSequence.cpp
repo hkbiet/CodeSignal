@@ -1,7 +1,7 @@
 bool almostIncreasingSequence(std::vector<int> sequence) {
 /*
 if(is_sorted(sequence.begin(), sequence.end())){
-        return true;
+        return true;tested here 
         }
   */  
     int max = INT_MIN;
