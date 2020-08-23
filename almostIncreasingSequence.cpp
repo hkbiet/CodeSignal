@@ -9,6 +9,7 @@ if(is_sorted(sequence.begin(), sequence.end())){
     int count = 0;
     int i = 0;
 
+        
     while(i < sequence.size()){
         if(sequence[i] > max){
             cout<<"normal seq seq["<<i<<"] > max("<<max<<")"<<endl;
