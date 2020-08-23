@@ -20,6 +20,7 @@ int adjacentElementsProduct(std::vector<int> inputArray) {
     }
 
     return max;
+    
 
 }
 
