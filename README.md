@@ -1,3 +1,3 @@
 # CodeSignal
 
-Solutions to the CodeSignal.com Exercises.
+Solutions to the CodeSignal.com Exercises . 
