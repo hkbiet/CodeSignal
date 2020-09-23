@@ -1,7 +1,7 @@
 #include <cstring>
 bool checkPalindrome(std::string inputString) {
 
-    
+    //test
     int code = 0;
     int front = 0;
     int end = strlen(inputString.c_str());
